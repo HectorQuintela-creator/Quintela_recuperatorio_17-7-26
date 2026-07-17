@@ -1,0 +1,6 @@
+a. ¿Dónde se ejecuta git init?
+Se ejecuta a lo primero poque esta iniciando un archivo
+
+b. ¿Para qué sirve git commit?
+Git commit sirve para comentar los archivos que subas a github
+
